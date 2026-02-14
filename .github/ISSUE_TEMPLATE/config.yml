@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 GitHub Discussions
+    url: https://github.com/alex1sch/aji-releases/discussions
+    about: Ask questions and get help from the community
+  - name: 📖 Documentation
+    url: https://github.com/alex1sch/aji-works/blob/main/docs
+    about: Read the documentation and guides
+  - name: 🔌 Plugin Development
+    url: https://github.com/alex1sch/aji-works
+    about: Build plugins with the AJI SDK
+  - name: 🔐 Security Vulnerability
+    url: https://github.com/alex1sch/aji-releases/security/advisories/new
+    about: Report security vulnerabilities privately
